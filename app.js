@@ -5,7 +5,7 @@ Exercise 1: Define an empty array
 
 Exercise 1 has been completed for you:
 */
-
+// test
 const foods = [];
 
 console.log("Exercise 1 result:", foods);
